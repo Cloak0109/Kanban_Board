@@ -1,0 +1,32 @@
+top navbar- to be created in html
+color icons div
+add and remove button
+on click add
+modal to give the nove
+text area in modal
+color selection widget
+task created
+top strip of color
+task dicussed
+lock icons 
+unlock icon
+unique id strip
+
+Functionality
+click event on add button
+click on color widget
+Keydown event on enter button
+click event on the top strip of task created
+click event on lock and unlock icons
+click event on remove button
+click event on task card to remove
+click event on top color icons
+double click event on top colors icons to remove filter
+
+Font Awesome- to add icons to your code
+Icons are lightweight and dont need to load
+
+https://kit.fontawesome.com/589957875e.js
+
+connect cloud to local repository
+main
